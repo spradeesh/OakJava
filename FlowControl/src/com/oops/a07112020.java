@@ -1,3 +1,5 @@
+package com.oops;
+
 import java.util.Scanner;
 
 public class a07112020 {
